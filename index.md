@@ -1,12 +1,33 @@
 ## Welcome to BEhTA Lab at Marquette University
 
-In 2017, Dr. Daniel Pinto became an assistant professor at Marquette University, and brought research projects with him. Over the past year and a half, Dr. Pinto has put work into various projects and studies in order to examine physical therapy techniques, economy around healthcare, and much more. Take a look at our current projects going on and see what we have been up to.
+In 2017, Dr. Daniel Pinto became an assistant professor at Marquette University, and brought his research projects with him. Over the past year and a half, Dr. Pinto has put work into various projects and studies in order to examine physical therapy techniques, economy around healthcare, and much more. He has also receieved funding for various projects and has had presentations throughout. Take a look at our current projects going on and see what we have been up to.
 
-### Current Projects
+### Ongoing Projects
 - [Clinical Instructor Messaging](https://behta-mu.github.io/Clinical-Instructor-Messaging/)
 - [Academic Dishonesty Project](https://behta-mu.github.io/Academic-Dishonesty-Project/)
 - [PAAPAYA](https://behta-mu.github.io/PAAPAYA/) 
 - [Network Meta Analysis, Regarding Knee Replacement](https://behta-mu.github.io/Network-Meta-Analysis/)
+
+### Researchers
+-Dr. Daniel Pinto
+
+-Ms. Marissa Lovell
+
+### Student Researchers
+
+-Megan Dorsey
+
+-Emily Kivland
+
+-Jona Lee
+
+-Haley Lynam
+
+-Jex Philip
+
+-Caitlin Raebig
+
+-Chris Voirin
 
 
 ### Contact US
