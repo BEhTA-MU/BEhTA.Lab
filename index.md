@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Current Projects
 
 - [Clinical Instructor Messaging](https://behta-mu.github.io/Clinical-Instructor-Messaing/)
-- [Academic Dishonesty Project]()
+- [Academic Dishonesty Project](https://behta-mu.github.io/Academic-Dishonesty-Project/)
 - [PAAPAYA]() 
 - [Network Meta Analysis, Regarding Knee Replacement]()
 
