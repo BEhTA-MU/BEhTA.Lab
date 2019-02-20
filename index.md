@@ -13,7 +13,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ### Contact US
-BEtHA.lab.mu@gmail.com
+BEhTA.lab.mu@gmail.com
 
 -[Facebook]()
 
