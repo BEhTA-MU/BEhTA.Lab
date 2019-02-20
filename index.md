@@ -8,26 +8,7 @@ In 2017, Dr. Daniel Pinto became an assistant professor at Marquette University,
 - [PAAPAYA](https://behta-mu.github.io/PAAPAYA/) 
 - [Network Meta Analysis, Regarding Knee Replacement](https://behta-mu.github.io/Network-Meta-Analysis/)
 
-### Researchers
--Dr. Daniel Pinto
-
--Ms. Marissa Lovell
-
-### Student Researchers
-
--Megan Dorsey
-
--Emily Kivland
-
--Jona Lee
-
--Haley Lynam
-
--Jex Philip
-
--Caitlin Raebig
-
--Chris Voirin
+### [Who we are](https://behta-mu.github.io/Who-we-are/)
 
 
 ### Contact US
