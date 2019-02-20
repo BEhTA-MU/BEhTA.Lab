@@ -5,8 +5,8 @@ In 2017, Dr. Daniel Pinto became an assistant professor at Marquette University,
 
 ### Current Projects
 
-- [Clinical Instructor Messaging]
-- [Academic Dishonesty Project]
+- [Clinical Instructor Messaging](https://behta-mu.github.io/Clinical-Instructor-Messaing/)
+- [Academic Dishonesty Project](https://behta-mu.github.io/Academic-Dishonesty-Project/)
 - [PAAPAYA]() 
 - [Network Meta Analysis, Regarding Knee Replacement]()
 
