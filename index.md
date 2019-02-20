@@ -1,15 +1,10 @@
 ## Welcome to BEhTA Lab at Marquette University
 
-You can use the [editor on GitHub](https://github.com/BEhTA-MU/BEhTA.Lab/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In 2017, Dr. Daniel Pinto became an assistant professor at Marquette University, and brought research projects with him. Over the past year and a half, Dr. Pinto has put work into various projects and studies in order to examine physical therapy techniques, economy around healthcare, and much more. Take a look at our current projects going on and see what we have been up to.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Current Projects
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 - [Clinical Instructor Messaging]()
 - [Academic Dishonesty Project]()
@@ -25,9 +20,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact US
 BEtHA.lab.mu@gmail.com
-[Facebook]
-[Twitter]
-[Linkedin]
-[Instagram]
+[Facebook]()
+[Twitter]()
+[Linkedin]()
+[Instagram]()
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
