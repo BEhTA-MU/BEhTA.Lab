@@ -16,7 +16,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 BEtHA.lab.mu@gmail.com
 
 -[Facebook]()
--[Twitter]()
+
+-[Twitter](https://twitter.com/BEhTA_Lab)
 
 -[Linkedin]()
 
